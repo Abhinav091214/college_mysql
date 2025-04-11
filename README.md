@@ -51,7 +51,9 @@ Queries.sql: SQL queries answering all the questions
 
 ## 📥 Clone the Repository
 To clone this project to your local machine:
+```bash
 git clone https://github.com/Abhinav091214/college_mysql.git
+```
 
 ## Access my Github here:
 Link to my github homepage: [Github- Abhinav](https://github.com/Abhinav091214)
