@@ -46,8 +46,8 @@ The project includes:
 Each table contains a small dataset (10–15 records), making it easy to test and understand query outputs.
 
 ## 📁 Files
-DB and Table creation: SQL script to create the schema
-Queries.sql: SQL queries answering all the questions
+1. DB and Table creation: SQL script to create the schema
+2. Queries.sql: SQL queries answering all the questions
 
 ## 📥 Clone the Repository
 To clone this project to your local machine:
