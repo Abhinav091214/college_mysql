@@ -42,5 +42,19 @@ The project includes:
 14.	Students enrolled in both 'Intro to CS' and 'Data Structures'
 15.	Create a view showing student name, major, and GPA
 
+## 🧪 Sample Data
+Each table contains a small dataset (10–15 records), making it easy to test and understand query outputs.
+
+## 📁 Files
+DB and Table creation: SQL script to create the schema
+Queries.sql: SQL queries answering all the questions
+
+## 📥 Clone the Repository
+To clone this project to your local machine:
+git clone https://github.com/Abhinav091214/college_mysql.git
+
 ## Access my Github here:
 Link to my github homepage: [Github- Abhinav](https://github.com/Abhinav091214)
+
+# Thank you!
+
