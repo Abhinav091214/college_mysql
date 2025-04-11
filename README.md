@@ -13,34 +13,34 @@ The project includes:
 
 
 
-✅ Key SQL Concepts Covered
-Joins (INNER JOIN)
+## ✅ Key SQL Concepts Covered:
 
-Aggregation (COUNT, AVG, ROUND)
+1.	Joins (INNER JOIN)
+2.	Aggregation (COUNT, AVG, ROUND)
+3.	Grouping (GROUP BY, HAVING)
+4.	Subqueries
+5.	Set operations (NOT IN, intersection logic)
+6.	Views
+7.	CASE statements (GPA conversion)
 
-Grouping (GROUP BY, HAVING)
 
-Subqueries
+## ❓ Sample Questions Answered
 
-Set operations (NOT IN, intersection logic)
+1.	List all students majoring in 'Computer Sci'
+2.	Find all courses with more than 3 credits
+3.	Show students and their enrolled courses
+4.	List student grades for 'Intro to CS'
+5.	Count students per major
+6.	Average age of Computer Sci majors
+7.	Number of students per course
+8.	Most popular course
+9.	List courses with no enrollments
+10.	Students with highest number of courses
+11.	Courses with no students
+12.	Students enrolled in all 'Computer Sci' courses
+13.	Students not enrolled in any course
+14.	Students enrolled in both 'Intro to CS' and 'Data Structures'
+15.	Create a view showing student name, major, and GPA
 
-Views
-
-CASE statements (GPA conversion)
-
-❓ Sample Questions Answered
-List all students majoring in 'Computer Sci'
-Find all courses with more than 3 credits
-Show students and their enrolled courses
-List student grades for 'Intro to CS'
-Count students per major
-Average age of Computer Sci majors
-Number of students per course
-Most popular course
-List courses with no enrollments
-Students with highest number of courses
-Courses with no students
-Students enrolled in all 'Computer Sci' courses
-Students not enrolled in any course
-Students enrolled in both 'Intro to CS' and 'Data Structures'
-Create a view showing student name, major, and GPA
+## Access my Github here:
+Link to my github homepage: [Github- Abhinav](https://github.com/Abhinav091214)
