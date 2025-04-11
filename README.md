@@ -1,7 +1,7 @@
 # College Database SQL Project
 This project showcases SQL skills through a simple college database containing students, courses, and enrollments. The goal is to answer common academic queries using SQL concepts such as joins, subqueries, set operations, grouping, and views.
 
-![]
+![](https://github.com/Abhinav091214/college_mysql/blob/main/logo.jpg)
 
 ## 📁 Project Overview
 The project includes:
